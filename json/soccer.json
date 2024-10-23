@@ -1,0 +1,105 @@
+"teams": [  
+    {  
+    "id":1,  
+    "name": "Manchester United",  
+    "players": [  
+    {  
+    "id":101,  
+    "firstname": "David",  
+    "lastname": "De Gea",  
+    "position": "Goalkeeper"  
+    },  
+    {  
+    "id":102,  
+    "firstname": "Harry",  
+    "lastname": "Maguire",  
+    "position": "Defender"  
+    },  
+    {  
+    "id":103,  
+    "firstname": "Bruno",  
+    "lastname": "Fernandes",  
+    "position": "Midfielder"  
+    }  
+    ],  
+    "fixtures": [  
+    {  
+    "opponent": "Arsenal",  
+    "date": "2023-12-12T15:00:00Z"  
+    },  
+    {  
+    "opponent": "Chelsea",  
+    "date": "2023-12-19T15:00:00Z"  
+    }  
+    ]  
+    },  
+    {  
+    "id":2,  
+    "name": "Liverpool",  
+    "players": [  
+    {  
+    "id":201,  
+    "firstname": "Alisson",  
+    "lastname": "Becker",  
+    "position": "Goalkeeper"  
+    },  
+    {  
+    "id":202,  
+    "firstname": "Virgil",  
+    "lastname": "Van Dijk",  
+    "position": "Defender"  
+    },  
+    {  
+    "id":203,  
+    "firstname": "Mohamed",  
+    "lastname": "Salah",  
+    "position": "Forward"  
+    }  
+    ],  
+    "fixtures": [  
+    {  
+    "opponent": "Manchester City",  
+    "date": "2023-12-15T15:00:00Z"  
+    },  
+    {  
+    "opponent": "Tottenham",  
+    "date": "2023-12-22T15:00:00Z"  
+    }  
+    ]  
+    },  
+    {  
+    "id":3,  
+    "name": "Arsenal",  
+    "players": [  
+    {  
+    "id":301,  
+    "firstname": "Aaron",  
+    "lastname": "Ramsdale",  
+    "position": "Goalkeeper"  
+    },  
+    {  
+    "id":302,  
+    "firstname": "Ben",  
+    "lastname": "White",  
+    "position": "Defender"  
+    },  
+    {  
+    "id":303,  
+    "firstname": "Martin",  
+    "lastname": "Ødegaard",  
+    "position": "Midfielder"  
+    }  
+    ],  
+    "fixtures": [  
+    {  
+    "opponent": "Manchester United",  
+    "date": "2023-12-12T15:00:00Z"  
+    },  
+    {  
+    "opponent": "Liverpool",  
+    "date": "2023-12-29T15:00:00Z"  
+    }  
+    ]  
+    }  
+    ]  
+   }

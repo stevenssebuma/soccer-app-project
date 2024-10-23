@@ -1,0 +1,90 @@
+.banner-text {
+    position: absolute; 
+    top:50%; 
+    left:50%;
+    transform: translate(-50%, -50%); 
+    color: white; 
+    text-align:center; 
+    z-index:10;
+    margin-bottom: 100px;
+    }
+img{
+    position: relative;
+    z-index: -1;
+    width: 100%;
+}
+
+h1 {  
+text-align: center;  
+color: rgb(5, 5, 5);
+font-size: 3rem;
+
+}  
+
+#app {  
+width:80%;  
+margin:20px auto;  
+}  
+
+input[type="text"] {  
+padding:10px;  
+border:1px solid #ccc;  
+border-radius:5px;  
+width:200px;  
+}  
+
+button {  
+padding:10px;  
+background: #007BFF;  
+color: white;  
+border: none;  
+border-radius:5px;  
+cursor: pointer;  
+}  
+
+button:hover {  
+background: #0056b3;  
+}  
+
+.team, .fixture, .player {  
+background: white;  
+border:1px solid #ccc;  
+border-radius:5px;  
+padding:10px;  
+margin:10px0;  
+}  
+
+.team h3, .player h4 {  
+margin:0;  
+}  
+
+.fixture h4 {  
+margin:0;  
+font-weight: normal;  
+}  
+
+#teams, #fixtures, #players {  
+margin-top:20px;  
+}
+
+@media screen and (max-width: 900px) {
+    .banner-text {
+        position: absolute; 
+        top:50%; 
+        left:50%;
+        transform: translate(-50%, -50%); 
+        color: white; 
+        text-align: center; 
+        z-index:10;
+        margin-bottom: 1000px;
+    
+        }
+
+        h1 {  
+            text-align: center;  
+            color: rgb(224, 35, 35);
+            font-size: 40px;
+            
+            }  
+    
+}
